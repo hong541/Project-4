@@ -1,0 +1,23 @@
+@import "~bootstrap/scss/bootstrap";
+
+$enable-gradient: true;
+
+.btn {
+  background-color: $gray-700;
+}
+
+.btn:hover {
+  background-color: $gray-600;
+}
+
+.insta {
+  color: $indigo-500;
+}
+
+.git {
+  color: $gray-100;
+}
+
+.whatsapp {
+  color: #fefefe;
+}
